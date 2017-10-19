@@ -1,0 +1,36 @@
+{"hospital_sn":"1101150011","update_time":1457465400,"full_reported":true,"pending_doctor":0,"pending_bed":3,"pending_ward":43,"pending_icu":0}
+{"hospital_sn":"1317050017","update_time":1457466002,"full_reported":false,"pending_doctor":0,"pending_bed":0,"pending_ward":0,"pending_icu":0}
+{"hospital_sn":"1131050515","update_time":1457465940,"full_reported":false,"pending_doctor":2,"pending_bed":0,"pending_ward":36,"pending_icu":0}
+{"hospital_sn":"0439010518","update_time":1457463903,"full_reported":false,"pending_doctor":0,"pending_bed":0,"pending_ward":17,"pending_icu":0}
+{"hospital_sn":"1142120001","update_time":1457466003,"full_reported":false,"pending_doctor":2,"pending_bed":0,"pending_ward":41,"pending_icu":0}
+{"hospital_sn":"0602030026","update_time":1457465700,"full_reported":true,"pending_doctor":0,"pending_bed":7,"pending_ward":59,"pending_icu":4}
+{"hospital_sn":"1317040011","update_time":1457465990,"full_reported":false,"pending_doctor":0,"pending_bed":0,"pending_ward":11,"pending_icu":1}
+{"hospital_sn":"0936050029","update_time":1457466000,"full_reported":false,"pending_doctor":0,"pending_bed":0,"pending_ward":0,"pending_icu":0}
+{"hospital_sn":"1137010024","update_time":1457466005,"full_reported":false,"pending_doctor":0,"pending_bed":0,"pending_ward":40,"pending_icu":1}
+{"hospital_sn":"1536030075","update_time":1457466000,"full_reported":false,"pending_doctor":0,"pending_bed":0,"pending_ward":0,"pending_icu":0}
+{"hospital_sn":"0617060018","update_time":1457466003,"full_reported":false,"pending_doctor":1,"pending_bed":0,"pending_ward":42,"pending_icu":7}
+{"update_time": 1457466002, "pending_icu": 3, "pending_bed": 0, "hospital_sn": "1111060015", "full_reported": true, "pending_doctor": 0, "pending_ward": 49}
+{"hospital_sn":"0421040011","update_time":1457466004,"full_reported":true,"pending_doctor":0,"pending_bed":0,"pending_ward":36,"pending_icu":9}
+{"hospital_sn":"1132070011","update_time":1457466002,"full_reported":true,"pending_doctor":4,"pending_bed":12,"pending_ward":178,"pending_icu":4}
+{"hospital_sn":"1142100017","update_time":1457466003,"full_reported":false,"pending_doctor":0,"pending_bed":0,"pending_ward":124,"pending_icu":4}
+{"hospital_sn":"1140010510","update_time":1457466002,"full_reported":false,"pending_doctor":1,"pending_bed":31,"pending_ward":47,"pending_icu":6}
+{"update_time": "1457464620", "pending_icu": 0, "pending_bed": 0, "hospital_sn": "1145010010", "full_reported": false, "pending_doctor": 0, "pending_ward": 17}
+{"update_time": "1457466001", "pending_icu": 0, "pending_bed": 0, "full_reported": false, "Hosptial_sn": "1240030514", "pending_doctor": 0, "pending_ward": 15}
+{"update_time": "1457466000", "pending_icu": 3, "pending_bed": 0, "hospital_sn": "1301200010", "full_reported": false, "pending_doctor": 1, "pending_ward": 16}
+{"update_time": "1457463902", "pending_icu": 3, "pending_bed": 10, "hospital_sn": "0401180014", "full_reported": false, "pending_doctor": 0, "pending_ward": 105}
+{"update_time": "1457467200", "pending_icu": 1, "pending_bed": 0, "hospital_sn": "1101020018", "full_reported": false, "pending_doctor": 0, "pending_ward": 10}
+{"update_time": "1457465853", "pending_bed": 0, "pending_icu": 0, "hospital_sn": "1434020015", "full_reported": false, "pending_doctor": 0, "pending_ward": 7}
+{"update_time": "null", "pending_icu": "0", "pending_bed": "0", "hospital_sn": "0601160016", "full_reported": false, "pending_doctor": "1", "pending_ward": "33"}
+{"update_time": "1457465984", "pending_icu": 0, "pending_bed": 0, "hospital_sn": "0936060016", "full_reported": false, "pending_doctor": 1, "pending_ward": 3}
+{"update_time": "1457140980", "pending_icu": 0, "pending_bed": 0, "hospital_sn": "1533050039", "full_reported": false, "pending_doctor": 1, "pending_ward": 0}
+{"update_time": "1457466000", "pending_bed": 15, "pending_icu": 0, "hospital_sn": "1101100011", "full_reported": false, "pending_doctor": 0, "pending_ward": 36}
+{"update_time": 1457466000, "pending_icu": 0, "pending_bed": 0, "hospital_sn": "1302050014", "full_reported": true, "pending_doctor": 0, "pending_ward": 53}
+{"update_time": "1457466007", "pending_icu": 1, "pending_bed": 6, "hospital_sn": "1331040513", "full_reported": false, "pending_doctor": 0, "pending_ward": 22}
+{"update_time": "null", "pending_icu": 2, "pending_bed": 0, "hospital_sn": "0501110514", "full_reported": true, "pending_doctor": 1, "pending_ward": 12}
+{"update_time": "1457466000", "pending_icu": 0, "pending_bed": 52, "hospital_sn": "1131010011", "full_reported": false, "pending_doctor": 4, "pending_ward": 63}
+{"update_time": "1457466009", "pending_icu": 3, "pending_bed": 0, "hospital_sn": "0937010019", "full_reported": false, "pending_doctor": 0, "pending_ward": 26}
+{"update_time": "null", "pending_icu": 0, "pending_bed": 0, "hospital_sn": "1105050012", "full_reported": false, "pending_doctor": 0, "pending_ward": 26}
+{"update_time": "null", "pending_icu": 0, "pending_bed": 0, "hospital_sn": "1141310019", "full_reported": false, "pending_doctor": 4, "pending_ward": 63}
+{"update_time": "null", "pending_icu": 0, "pending_bed": 0, "hospital_sn": "1141090512", "full_reported": false, "pending_doctor": 3, "pending_ward": 31}
+{"update_time": 1457465969, "pending_icu": 0, "pending_bed": 0, "hospital_sn": "1122010012", "full_reported": false, "pending_doctor": 7, "pending_ward": 38}
+{"update_time": "1457465700", "pending_icu": 0, "pending_bed": 0, "hospital_sn": "0943030019", "full_reported": false, "pending_doctor": 0, "pending_ward": 12}
